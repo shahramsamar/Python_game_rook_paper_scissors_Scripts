@@ -26,6 +26,7 @@ A simple implementation of the classic game Rock Paper Scissors in Python. This 
 
     ```bash
     python rock_paper_scissors.py
+    rsp.py
     ```
 
 ### How to Play
